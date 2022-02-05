@@ -1,0 +1,95 @@
+body {
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.p1 {
+    padding-left: 50px;
+    padding-right: 50px;
+    border-style: solid;
+    border-width: 7px;
+}
+
+.p2 {
+    padding-left: 50px;
+    padding-right: 50px;
+    border-style: solid;
+    border-width: 7px;
+}
+
+.p3 {
+    padding-left: 50px;
+    padding-right: 50px;
+    border-style: solid;
+    border-width: 7px;
+}
+
+.p4 {
+    padding-left: 50px;
+    padding-right: 50px;
+    border-style: solid;
+    border-width: 7px;
+}
+
+.rect1 {
+    fill: cornflowerblue;
+}
+
+.rect1:hover {
+    fill:hotpink;
+}
+
+.rect2 {
+    fill: cornflowerblue;
+}
+
+.rect2:hover {
+    fill:hotpink;
+}
+
+.rect3 {
+    fill: cornflowerblue;
+}
+
+.rect3:hover {
+    fill:hotpink;
+}
+
+.circle1 {
+    fill:plum;
+}
+
+.circle1:hover {
+    fill:greenyellow;
+}
+
+.circle2 {
+    fill: plum;
+}
+
+.circle2:hover {
+    fill:greenyellow;
+}
+
+h3 {
+    text-align: center;
+}
+
+.resources {
+    text-align: center;
+}
+
+.links {
+    display: inline-block;
+    text-align: left;
+}
