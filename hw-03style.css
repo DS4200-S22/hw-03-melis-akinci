@@ -22,7 +22,7 @@ h1 {
 .ptext {
     max-width: 300px;
     align-items: auto;
-    font-size: small;
+    font-size: smaller;
 }
 .rectangle {
     fill: cornflowerblue;
