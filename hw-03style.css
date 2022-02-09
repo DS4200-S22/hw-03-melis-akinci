@@ -18,6 +18,7 @@ h1 {
 
 .paragraph {
     border: 5px black solid;
+    padding: 5px;
 }
 .ptext {
     max-width: 300px;
