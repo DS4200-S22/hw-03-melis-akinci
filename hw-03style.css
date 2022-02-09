@@ -15,18 +15,8 @@ h1 {
     align-items: auto;
     padding: 20px;
 }
-.p1 {
+.paragraph {
     border:7px black solid;
-}
-.p2 {
-    border:7px black solid;
-}
-.p3 {
-    border:7px black solid;
-}
-.p4 {
-    border:7px black solid;
-
 }
 
 .ptext {
@@ -34,43 +24,19 @@ h1 {
     align-items: auto;
 }
 
-.rect1 {
+.rectangle {
     fill: cornflowerblue;
 }
 
-.rect1:hover {
+.rectangle:hover {
     fill:hotpink;
 }
 
-.rect2 {
-    fill: cornflowerblue;
-}
-
-.rect2:hover {
-    fill:hotpink;
-}
-
-.rect3 {
-    fill: cornflowerblue;
-}
-
-.rect3:hover {
-    fill:hotpink;
-}
-
-.circle1 {
-    fill:plum;
-}
-
-.circle1:hover {
-    fill:greenyellow;
-}
-
-.circle2 {
+.circle {
     fill: plum;
 }
 
-.circle2:hover {
+.circle:hover {
     fill:greenyellow;
 }
 
