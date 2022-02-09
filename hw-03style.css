@@ -8,70 +8,34 @@ h1 {
 
 .flex-container {
     display: flex;
-    gap: 20px;
+    gap: 10px;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
     align-items: auto;
-    padding: 20px;
-}
-.p1 {
-    border:7px black solid;
-}
-.p2 {
-    border:7px black solid;
-}
-.p3 {
-    border:7px black solid;
-}
-.p4 {
-    border:7px black solid;
-
+    padding: 10px;
 }
 
+.paragraph {
+    border: 5px black solid;
+}
 .ptext {
-    max-width: 500px;
+    max-width: 300px;
     align-items: auto;
+    font-size: small;
 }
-
-.rect1 {
+.rectangle {
     fill: cornflowerblue;
 }
-
-.rect1:hover {
-    fill:hotpink;
+.rectangle:hover{
+    fill: hotpink;
 }
 
-.rect2 {
-    fill: cornflowerblue;
-}
-
-.rect2:hover {
-    fill:hotpink;
-}
-
-.rect3 {
-    fill: cornflowerblue;
-}
-
-.rect3:hover {
-    fill:hotpink;
-}
-
-.circle1 {
-    fill:plum;
-}
-
-.circle1:hover {
-    fill:greenyellow;
-}
-
-.circle2 {
+.circle{
     fill: plum;
 }
-
-.circle2:hover {
-    fill:greenyellow;
+.circle:hover{
+    fill: greenyellow;
 }
 
 h3 {
