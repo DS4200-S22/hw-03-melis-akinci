@@ -8,38 +8,30 @@ h1 {
 
 .flex-container {
     display: flex;
+    gap: 20px;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    align-items: center;
+    align-items: auto;
+    padding: 20px;
 }
-
 .p1 {
-    padding-left: 50px;
-    padding-right: 50px;
-    border-style: solid;
-    border-width: 7px;
+    border:7px black solid;
 }
-
 .p2 {
-    padding-left: 50px;
-    padding-right: 50px;
-    border-style: solid;
-    border-width: 7px;
+    border:7px black solid;
 }
-
 .p3 {
-    padding-left: 50px;
-    padding-right: 50px;
-    border-style: solid;
-    border-width: 7px;
+    border:7px black solid;
+}
+.p4 {
+    border:7px black solid;
+
 }
 
-.p4 {
-    padding-left: 50px;
-    padding-right: 50px;
-    border-style: solid;
-    border-width: 7px;
+.ptext {
+    max-width: 500px;
+    align-items: auto;
 }
 
 .rect1 {
